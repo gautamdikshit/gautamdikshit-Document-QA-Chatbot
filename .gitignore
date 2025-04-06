@@ -1,0 +1,17 @@
+# Ignore virtual environments
+venv/
+
+# Ignore large binaries
+*.dll
+*.lib
+*.exe
+*.bin
+*.pkl
+*.pt
+*.h5
+
+# Ignore typical system/editor files
+__pycache__/
+*.pyc
+.DS_Store
+.env
